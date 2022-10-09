@@ -4,7 +4,8 @@ lib/confs/
 src/cache/
 src/config/
 src/log/
-web/dist/
+#web/dist/
+src/client/node_modules
 src/vendor
 apidoc
 logInsatall.log
